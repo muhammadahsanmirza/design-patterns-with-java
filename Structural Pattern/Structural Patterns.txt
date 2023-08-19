@@ -1,0 +1,1 @@
+Here are code examples of implementation of Design Patterns in Java.
